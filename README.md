@@ -6,72 +6,23 @@ I am transitioning into Data Analytics after nearly 10 years in education, where
 
 I enjoy transforming raw data into meaningful insights using Python, SQL, Excel, and Power BI.
 
----
+## Skills
+• Python
+• SQL
+• Power BI
+• Excel
+• Pandas
+• Scikit-learn
+• Data Visualization
 
-## Technical Skills
+## Projects
+📈 Apple Stock Time Series
+🌸 Iris Clustering
+🤖 Customer Churn Prediction
+📊 Power BI Dashboard
+🧹 Sentiment Analysis EDA
 
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-- Excel
-- Machine Learning
-- Data Cleaning
-- Data Visualization
-- Statistical Analysis
-- Business Intelligence
-
----
-
-## Featured Projects
-
-### Customer Churn Prediction
-
-Machine learning project using:
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- GridSearchCV
-- ROC Curves
-- Feature Importance
-
----
-
-### Customer Churn Dashboard
-
-Interactive Power BI dashboard analysing:
-
-- Customer churn
-- Service plans
-- Customer behaviour
-- KPIs
-- DAX
-
----
-
-### Apple Stock Time Series Analysis
-
-- Trend analysis
-- Moving averages
-- Seasonal decomposition
-
----
-
-### K-Means Clustering
-
-Customer segmentation using K-Means clustering.
-
----
-
-## Currently Learning
-
-- Advanced SQL
-- Machine Learning
-- Business Analytics
-- Cloud Data Analytics
-
+Currently looking for Data Analyst opportunities.
 ---
 
 ## Connect with me
